@@ -6,9 +6,9 @@ Create a class named `Whistle`. Add the variable `sound` to the class. After tha
 duck_whistle = Whistle("Kvaak")
 rooster_whistle = Whistle("Peef")
 
-duck_whistle.sound()
-rooster_whistle.sound()
-duck_whistle.sound()
+print(duck_whistle.sound)
+print(rooster_whistle.sound)
+print(duck_whistle.sound)
 ```
 
 ```plaintext
